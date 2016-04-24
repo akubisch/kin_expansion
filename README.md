@@ -1,4 +1,5 @@
 # Kin competition as a major driving force for invasions
+[![DOI](https://zenodo.org/badge/21570/akubisch/kin_expansion.svg)](https://zenodo.org/badge/latestdoi/21570/akubisch/kin_expansion)
 
 Authors: Alexander Kubisch, Emanuel A. Fronhofer, Hans Joachim Poethke &amp; Thomas Hovestadt
 
