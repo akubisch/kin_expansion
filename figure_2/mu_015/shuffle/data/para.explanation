@@ -1,0 +1,8 @@
+carrying capacity (K)
+per capita growth rate (lambda_0)
+environmental stochasticity (sigma)
+dispersal mortality (mu)
+extinction probability (epsilon)
+mutation probability (m)
+simulation time (tmax)
+no. of replications
